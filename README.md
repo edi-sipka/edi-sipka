@@ -13,11 +13,11 @@ I ocassionally blog about starting your own startup business. For sure will blog
 
 
 
-## Get in touch 😄:
+## Get in touch 😄
 
-- My previous experienced in few lines, meet me up to find more.  [Linkedin](https://www.linkedin.com/in/edi-%C5%A1ipka-5b681b202/).
+- My previous experienced in few lines, meet me up to find more. - [Linkedin](https://www.linkedin.com/in/edi-%C5%A1ipka-5b681b202/).
 - Cool blog topics about failures and successes of young guy trying to achieve his goal.
- :stuck_out_tongue: on [Medium](https://medium.com/@edisipka).
+ :stuck_out_tongue: on - [Medium](https://medium.com/@edisipka).
 - And of course GitHub you're already on (Recursion).
 <!---
 edi-sipka/edi-sipka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
