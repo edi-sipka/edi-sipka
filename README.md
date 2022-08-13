@@ -3,10 +3,9 @@
 
 ## About me
 
-Master of business administration becoming full stack developer. Currently working as CTO at [Galora Media](https://www.galoramedia.com/) and also founder of [Svezafirmu.ba](https://svezafirmu.ba/) (E-commerce business). I found coding my passion, because I am problem solving type of guy. 
-:coffee: lover
-🏀 ex national player
-🐶 lover
+Master of business administration striving to become a full-stack developer. Currently working as CTO at Galora Media and also the founder of Svezafirmu. ba (E-commerce business). I am a problem-solving type of guy, which is why coding is one of my passions. 
+☕ lover 🏀 ex-national player 🐶 lover
+I occasionally blog how to start your own startup business. For sure will blog about my coding journey.
 
 
 I ocassionally blog about starting your own startup business. For sure will blog about my coding journey.  
