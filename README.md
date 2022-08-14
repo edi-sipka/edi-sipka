@@ -3,23 +3,26 @@
 
 ## About me
 
-Master of business administration striving to become a full-stack developer. Currently working as CTO at [Galora Media](https://www.galoramedia.com) and also the founder of [Svezafirmu.ba]("https://www.svezafirmu.ba) (E-commerce business). I am a problem-solving type of guy, which is why coding is one of my passions. 
-☕ lover 🏀 ex-national player 🐶 lover
+Master of business administration striving to become a full-stack developer. Currently working as CTO at [Galora Media](https://www.galoramedia.com) and also the founder of [Svezafirmu.ba](https://www.svezafirmu.ba) (E-commerce business). I am a problem-solving type of guy, which is why coding is one of my passions. <br>
+I am also: ☕ lover 🏀 ex-national player 🐶 lover
 
 I occasionally blog how to start your own startup business. For sure will blog about my coding journey.
 
 <div>
  <h2>My Skills</h2>
   <div>
-    <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
-    <code><img height="35" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="figma"/></code>
-    <code><img height="35" src="https://user-images.githubusercontent.com/45231276/166199417-71e1f26e-1da7-448c-be42-da4015fcba27.png"/></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
+    <code><img height="35" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="figma"/></code>
+    <code><img height="35" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress"/></code>
+
+
+    
   
   </div>
   <br/>
