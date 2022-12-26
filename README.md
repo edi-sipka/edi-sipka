@@ -1,5 +1,5 @@
 # Hello World :wave: 
-<h2>I'm Edi Šipka! <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="60"></h2>
+<h2>I'm Edi Šipka! </h2>
 
 ## About me
 
