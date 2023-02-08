@@ -1,9 +1,9 @@
-# Hello World :wave: 
+# Hello :wave: 
 <h2>I'm Edi Šipka! </h2>
 
 ## About me
 
-Master of business administration striving to become a full-stack developer. Currently full-stack student at [Microverse](https://www.microverse.org) and also the founder of [Svezafirmu.ba](https://www.svezafirmu.ba) (E-commerce business). I am a problem-solving type of guy, which is why coding is one of my passions. <br>
+Full-Stack developer and business enthusiast with an MBA degree of 5+ years of experience in business development. Fluent in multiple languages, frameworks, and technologies to constantly learn new things and improve business organization goals. I have strong skills include PostgreSQL, Rails, React, and Redux.  Currently full-stack student at [Microverse](https://www.microverse.org) and also the founder of [Svezafirmu.ba](https://www.svezafirmu.ba) (E-commerce business). I am a problem-solving type of guy, which is why coding is one of my passions. <br>
 I am also: ☕ lover 🏀 ex-national player 🐶 lover
 
 I occasionally blog how to start your own startup business. For sure will blog about my coding journey.
